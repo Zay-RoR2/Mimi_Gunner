@@ -6,3 +6,8 @@ A model replacement skin for the Railgunner in Risk of Rain 2
 
 
 # In-game Screenshots
+![20241117152816_1](https://github.com/user-attachments/assets/6b6e554a-4bf0-47a5-8f45-4b5c7ed4c18a)
+
+![20241117152914_1](https://github.com/user-attachments/assets/83e711f6-8254-47a9-b402-0ce0d47f91d3)
+
+![20241117153243_1](https://github.com/user-attachments/assets/cf3ca826-7613-4e50-a4bd-17deb73d7e5e)
