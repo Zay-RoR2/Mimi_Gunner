@@ -2,7 +2,7 @@
 A model replacement skin for the Railgunner in Risk of Rain 2
 
 # Requirements
-- R2modman
+- R2modman (https://thunderstore.io/package/ebkr/r2modman/)
 - Risk of Rain 2
 - Survivors of the Void DLC for Risk of Rain 2
 
