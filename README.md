@@ -1,6 +1,10 @@
 # Mimi_Gunner
 A model replacement skin for the Railgunner in Risk of Rain 2
 
+# Credits
+Mimi Sentry model by Mochi (https://x.com/CASSY_OS_2002)
+Model edits & Port by Me
+
 # Requirements
 - R2modman (https://thunderstore.io/package/ebkr/r2modman/)
 - Risk of Rain 2
