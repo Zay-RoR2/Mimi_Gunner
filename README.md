@@ -3,6 +3,10 @@ A model replacement skin for the Railgunner in Risk of Rain 2
 
 # Credits
 Mimi Sentry model by Mochi (https://x.com/CASSY_OS_2002)
+- Steam Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2937800993
+
+Mimi Sentry Ponytail Hair Model by EmperorFaiz (https://x.com/EmperorFaiz)
+- Steam Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2975646287
 
 Model edits & Port by Me
 
