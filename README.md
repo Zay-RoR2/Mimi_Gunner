@@ -3,6 +3,7 @@ A model replacement skin for the Railgunner in Risk of Rain 2
 
 # Credits
 Mimi Sentry model by Mochi (https://x.com/CASSY_OS_2002)
+
 Model edits & Port by Me
 
 # Requirements
